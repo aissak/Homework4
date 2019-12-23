@@ -1,0 +1,54 @@
+book
+Mindset
+3
+17.00
+print
+Ballantine books
+book
+Introduction to Java
+10
+162.48
+print
+Pearson
+book
+Educated
+1000
+14.99
+ebook
+RandomHouse
+music
+Abbey Road
+5
+17.99
+vinyl
+UMC
+music
+The Love don't last long
+2
+8.99
+mp3
+Taelor Gray
+music
+Lover
+300
+15.99
+CD
+UMC
+Video
+Star Wars
+5
+21.39
+Video
+Disney
+Video
+Aquaman
+8
+14.99
+MP4
+Warner Brothers
+movie
+The Avengers
+100
+13.99
+MP4
+Marvel
